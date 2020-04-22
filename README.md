@@ -1,3 +1,12 @@
 # Git Essentials
 another repo
-This shoudl be the last test
+This should be the last test
+
+## Do this
+Hello there
+
+##Fo that
+Yes yes
+
+##Well Well!!!
+GGG
